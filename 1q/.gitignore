@@ -1,0 +1,29 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# VS / Rider
+.vscode/
+*.csproj
+*.sln
+*.user
+.idea/
+
+# Archivos de Unity generados automáticamente
+ExportedObj/
+*.pidb
+*.booproj
+*.svd
+*.userprefs
+
+# Configuración de Unity oculta (si no es para todos)
+MemoryCaptures/
+*.apk
+*.unitypackage
